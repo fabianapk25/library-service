@@ -1,4 +1,4 @@
-package com.fklein.library_service;
+package com.fklein.library;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
